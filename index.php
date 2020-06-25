@@ -8,4 +8,3 @@
 	header('Location: '.$uri.'/dashboard/');
 	exit;
 ?>
- :-(
